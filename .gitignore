@@ -2,3 +2,5 @@ build.sh
 main
 *.pyc
 *.class
+
+.idea/*
